@@ -15,7 +15,8 @@ Per configurar ssh em de fer lo sguent:
 <img width="641" alt="image" src="https://github.com/user-attachments/assets/11e8f40f-ec58-4848-ab7c-2a18ebe50c2c">
 
 2. Un cop creada ens aurem de conectar de manera remota de la seguent manera:
-   Pimrer donariem boto dret sobre la isntancia que volem conectarnos i li donarem a conectar
+   
+   Primer donariem boto dret sobre la isntancia que volem conectarnos i li donarem a conectar
    
 <img width="563" alt="image" src="https://github.com/user-attachments/assets/66af399d-ec3a-42f0-8cdd-2757da10e4e0">
 
