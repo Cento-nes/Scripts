@@ -28,5 +28,5 @@ Per configurar ssh em de fer lo sguent:
   
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/cbb519c4-6ef4-424d-b040-a4f96f3b745d">
 
-3. 
+3. estem intentan conectarnos per rdp pero no tinc manera de fero e de esperar a que sobrin els ports
 
